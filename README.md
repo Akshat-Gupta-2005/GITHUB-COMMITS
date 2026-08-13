@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0120-triangle) |
 | [0994-rotting-oranges](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0994-rotting-oranges) |
 ## Breadth-First Search
 |  |
@@ -21,4 +22,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
