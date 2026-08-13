@@ -16,13 +16,30 @@ class Solution {
         int m = obstacleGrid[0].length;
         if (obstacleGrid[0][0] == 1) return 0;
         int [][]dp = new int[n][m];
-        for (int i = 0; i < n ; i++){
-            for (int j = 0 ; j < m ; j++){
-                dp[i][j] = -1;
+        // for (int i = 0; i < n ; i++){
+        //     for (int j = 0 ; j < m ; j++){
+        //         dp[i][j] = -1;
+        //     }
+        // }
+
+        // return rec(n-1,m-1,obstacleGrid,dp);
+
+        for (int i = 0 ; i < n ; i++){
+            for(int j = 0 ; j < m ; j++){
+                if (obstacleGrid[i][j] == 1) dp[i][j] = 0;
+                else if (i == 0 && j ==0) dp[0][0] = 1;
+                else{
+                    int t = 0;
+                    if (i>0) t = dp[i-1][j];
+                    int l = 0;
+                    if (j>0) l = dp[i][j-1];
+
+                    dp[i][j]= l+t;
+                }
             }
         }
 
-        return rec(n-1,m-1,obstacleGrid,dp);
+        return dp[n-1][m-1];
 
         // if (n == 1 && m == 1){
         //     if (obstacleGrid[0][0] == 1) return 0;
