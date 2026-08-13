@@ -21,14 +21,29 @@ class Solution {
         if (s%2 == 1) return false;
         s = s/2;
 
-        int [][]dp = new int[n][s+1];
+        boolean [][]dp = new boolean[n][s+1];
+        // int [][]dp = new int[n][s+1];
+        // for (int i = 0 ; i < n ; i++){
+        //     for (int j = 0 ; j <=s ; j++){
+        //         dp[i][j] = -1;
+        //     }
+        // } 
+
         for (int i = 0 ; i < n ; i++){
             for (int j = 0 ; j <=s ; j++){
-                dp[i][j] = -1;
+                if (j == 0) dp[i][j] = true;
+                else if (i == 0) dp[i][j] = (nums[i]==j);
+                else{
+                    boolean np = dp[i-1][j];
+                    boolean p = false;
+                    if (nums[i] <= j) p = dp[i-1][j - nums[i]];
+                    dp[i][j] = (np||p);
+                }
+
             }
-        } 
+        }
 
         // return rec(n-1,nums,s,dp);
-        return rec(n-1,nums,s,dp);
+        return dp[n-1][s];
     }
 }
