@@ -33,4 +33,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0416-partition-equal-subset-sum) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
