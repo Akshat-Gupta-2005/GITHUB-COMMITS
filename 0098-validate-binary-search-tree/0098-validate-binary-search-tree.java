@@ -16,7 +16,12 @@
 class Solution {
     boolean rec(TreeNode t, Long l , Long r){
         if (t == null) return true;
-        return t.val>l && t.val<r && rec(t.left,l,(long)t.val) && rec(t.right,(long)t.val,r);
+        if (t.val <= l) return false;
+        if (t.val >= r) return false;
+        if (!rec(t.left,l,(long)t.val)) return false;
+        if (!rec(t.right,(long)t.val,r)) return false;
+        return true;
+        // return t.val>l && t.val<r && rec(t.left,l,(long)t.val) && rec(t.right,(long)t.val,r);
     }
     public boolean isValidBST(TreeNode root) {
         if (root == null) return true;
