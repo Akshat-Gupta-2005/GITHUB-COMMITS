@@ -19,11 +19,11 @@ class Solution {
         if (n == null) return 0;
         int l = rec(n.left);
         int r = rec(n.right);
-        max = Math.max(max,l+r+1);
+        max = Math.max(max,l+r);
         return Math.max(l,r) + 1;
     }
     public int diameterOfBinaryTree(TreeNode root) {
         rec(root);
-        return max-1;
+        return max;
     }
 }
