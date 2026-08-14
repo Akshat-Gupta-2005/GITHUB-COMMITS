@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0100-same-tree) |
 | [0994-rotting-oranges](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0144-binary-tree-preorder-traversal) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0144-binary-tree-preorder-traversal) |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0144-binary-tree-preorder-traversal) |
