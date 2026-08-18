@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0120-triangle) |
 | [0268-missing-number](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0268-missing-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0485-max-consecutive-ones) |
 | [0994-rotting-oranges](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0994-rotting-oranges) |
 ## Breadth-First Search
 |  |
