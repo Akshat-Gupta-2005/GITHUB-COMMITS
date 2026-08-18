@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0338-counting-bits](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0416-partition-equal-subset-sum) |
 ## Knapsack Problem
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
