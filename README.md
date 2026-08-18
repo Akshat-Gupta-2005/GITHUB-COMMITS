@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0268-missing-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0231-power-of-two) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
