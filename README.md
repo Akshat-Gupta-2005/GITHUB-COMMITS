@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0063-unique-paths-ii) |
+| [0075-sort-colors](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0268-missing-number) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -159,4 +161,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
