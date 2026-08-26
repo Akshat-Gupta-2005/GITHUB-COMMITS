@@ -179,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
