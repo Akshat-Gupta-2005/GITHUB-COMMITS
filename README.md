@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0041-first-missing-positive) |
+| [0242-valid-anagram](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -183,4 +185,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0008-string-to-integer-atoi) |
+| [0242-valid-anagram](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
