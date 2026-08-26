@@ -177,12 +177,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0141-linked-list-cycle) |
 | [0443-string-compression](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0876-middle-of-the-linked-list) |
 ## Quicksort
 |  |
 | ------- |
