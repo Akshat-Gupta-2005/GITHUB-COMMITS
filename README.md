@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0268-missing-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0485-max-consecutive-ones) |
@@ -216,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0141-linked-list-cycle) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
