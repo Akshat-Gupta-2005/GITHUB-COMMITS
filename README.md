@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
@@ -194,9 +195,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0053-maximum-subarray) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
