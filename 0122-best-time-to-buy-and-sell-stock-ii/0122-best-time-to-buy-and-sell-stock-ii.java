@@ -18,7 +18,5 @@ class Solution {
             dp[i][0] = Math.max(prices[i] + dp[i+1][1] , 0 + dp[i+1][0]);
         }
         return dp[0][1];
-
-
     }
 }
