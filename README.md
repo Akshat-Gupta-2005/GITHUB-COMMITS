@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0485-max-consecutive-ones) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0994-rotting-oranges](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0994-rotting-oranges) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Breadth-First Search
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0416-partition-equal-subset-sum) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Knapsack Problem
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## String
 |  |
