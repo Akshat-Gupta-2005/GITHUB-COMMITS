@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0217-contains-duplicate](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0217-contains-duplicate) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0242-valid-anagram) |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
