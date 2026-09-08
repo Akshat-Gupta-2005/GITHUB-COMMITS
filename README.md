@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0485-max-consecutive-ones) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0994-rotting-oranges](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0994-rotting-oranges) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Breadth-First Search
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0141-linked-list-cycle) |
 | [0443-string-compression](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0876-middle-of-the-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Quicksort
 |  |
 | ------- |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0196-delete-duplicate-emails) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
