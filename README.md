@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0141-linked-list-cycle) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0242-valid-anagram](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0443-string-compression) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
