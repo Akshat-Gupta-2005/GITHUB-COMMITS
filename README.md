@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0416-partition-equal-subset-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Knapsack Problem
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Quicksort
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## String
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0443-string-compression) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
