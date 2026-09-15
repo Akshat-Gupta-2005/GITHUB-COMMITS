@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0120-triangle) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0231-power-of-two) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Akshat-Gupta-2005/GITHUB-COMMITS/tree/master/0443-string-compression) |
